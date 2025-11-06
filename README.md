@@ -1,1 +1,3 @@
-# Indian_Sign_Language
+# Indian Sign Language
+
+It is a mode of communication that does not rely on the use of spoken words but rather on non-verbal cues such as hand gestures and movements, body language, and facial expressions. Those who are deaf or hard of hearing typically communicate through the use of sign languages. Sign Languages are natural human languages that have developed wherever communities of deaf people have come together to form groups. Sign Languages are spoken by around 35 million people worldwide. Sign languages are fully developed human languages that are on a par with spoken languages at every level of linguistic organisation. This means that, just like spoken languages, sign languages have their own grammar and lexicon.
